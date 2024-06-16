@@ -10,7 +10,7 @@ doStuff();
 // ... but they don't have to be, as semicolons are automatically inserted
 // wherever there's a newline, except in certain cases.
 doStuff();
-
+console.log()
 // Because those cases can cause unexpected results, we'll keep on using
 // semicolons in this guide.
 
